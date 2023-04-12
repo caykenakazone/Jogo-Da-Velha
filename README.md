@@ -16,6 +16,6 @@ cadastros ficavam salvos em um .JSON e eram validados para fazer LOGIN, logo ap�
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML]
-- [CSS](
-- [JavaScript]
+- HTML
+- CSS
+- JavaScript
