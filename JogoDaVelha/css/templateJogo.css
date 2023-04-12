@@ -1,0 +1,20 @@
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jogadores {
+    background-color: rgb(75, 57, 132);
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.jogadores>div {
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    color: rgb(61, 23, 123);
+    border: 10px double black;
+    border-radius: 10px;
+}

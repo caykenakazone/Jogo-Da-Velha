@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+    font-family: 'Press Start 2P', cursive;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(13, 4, 43);
+}
+
+.box>h1 {
+    color: rgb(61, 23, 123);
+}
+
+.container>div {
+    width: 650px;
+    margin: auto;
+    border: 10px solid rgb(61, 23, 123);
+    border-radius: 50px;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -250px;
+    margin-top: -300px;
+
+}
+
+.box {
+    box-shadow: 0px 0px 50px rgb(81, 81, 203);
+}
+
+.container input[type="text"],
+.container input[type="password"] {
+    width: 70%;
+    margin: 10px 0px;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid rgb(61, 23, 123);
+    margin-top: 15px;
+}
+
+.container input[type="button"] {
+    width: 70%;
+    margin: 20px 0px;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(61, 23, 123);
+    color: white;
+    border: none;
+    text-shadow: 1px 1px 1px black;
+    outline: none;
+}
+
+.container input[type="button"]:hover {
+    background-color: black;
+    color: white;
+}
+
+.container p {
+    font-size: 10px;
+}

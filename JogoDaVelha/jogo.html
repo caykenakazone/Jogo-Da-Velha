@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="js/jogo.js"></script>
+    <link rel="stylesheet" href="css/jogo.css">
+    <link rel="stylesheet" href="css/template.css">
+    <link rel="stylesheet" href="css/templateJogo.css">
+    <link rel="stylesheet" href="css/jAlertWifi.css">
+    <script src="js/jAlertWifi.js"></script>
+</head>
+
+<body onload="criarTabuleiro()">
+    <main>
+        <div class="jogovelha">
+            <h1>Jogo da velha</h1>
+        </div>
+        <div class="jogadores">
+            
+            <div class="caixas">
+                <h1 class="jogs">Jogador 1</h1>
+                <h2 id="jog1"></h2>
+
+            </div>
+            <div class="vez">
+                <h2>Vez do jogador: <span id="vez"></span></h2>
+            </div>
+            
+            <div class="caixas">
+                <h1 class="jogs">Jogador 2</h1>
+                <h2 id="jog2"></h2>
+            </div>
+        </div>
+        <section>
+            <div id="tabuleiro">
+            </div>
+        </section>
+    </main>
+</body>
+
+</html>
