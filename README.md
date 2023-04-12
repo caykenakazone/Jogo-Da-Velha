@@ -1,3 +1,22 @@
-# TopFilmes
-  Nesse Projeto sobre API's e requisição assíncrona, fiz a criação de uma página onde são mostrados os 10 filmes mais populares do site TMDB. Optei por fazer uma API's mais minimalista, onde são exibidas na tela as informações sobre os filmes. Quando é passado o mouse sobre o filme, é mudado a cor de fundo para mostrar qual filme você está lendo.
-  Futuramente quero implementar mais animações para quando o user passar o mouse sobre e também para redirecionar para página do TMDB, para ter mais informações no site.
+# Jogo Da Velha
+
+ Esse projeto feito para disciplina de desenvolvimento web, usando html, css e javascript. Onde o desafio era construir um Jogo da Velha, com sistema de cadastro e login, onde os 
+cadastros ficavam salvos em um .JSON e eram validados para fazer LOGIN, logo após o login, era pedido o nome dos dois jogadores e com isso, o jogo comça, onde cada jogador escolhe onde deseja jogar.
+
+###Andamento do Projeto
+	🚧  React Select 🚀 Em construção...  🚧
+
+##Funcionalidades
+
+  - [x] Cadastro de usuário
+  - [x] Login de usuário
+  - [x] Escolher nomes dos jogadores
+  - [x] Indicar o vencedor
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [HTML]
+- [CSS](
+- [JavaScript]
